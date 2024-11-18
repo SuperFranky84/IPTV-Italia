@@ -127,8 +127,9 @@ https://sportitaliaamd.akamaized.net/live/Donna_TV/hls/42EB42E58EA44362045EFEA80
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 #EXTINF:-1 tvg-id="AlmaTv.it" tvg-chno="65" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/almatv.png" group-title="Altro",ALMA TV
 https://almatv.grupposciscione.knoxstreaming.com/live/1080p/livestream_def.m3u8
-#EXTINF:-1 tvg-id="Radio105TV.it" tvg-chno="66" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/radio105tv.png" group-title="Radio",Radio 105
-https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Radio105TV.it" tvg-chno="66" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/radio105tv.png" group-title="Radio",Radio 105 TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="R101TV.it" tvg-chno="67" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/r101tv.png" group-title="Radio",R101 TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
