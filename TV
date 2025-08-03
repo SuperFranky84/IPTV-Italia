@@ -123,12 +123,32 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&force
 #EXTINF:-1 tvg-id="RaiSport+HD.it" tvg-chno="58" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/raisport+hd.png" group-title="Rai",Rai Sport + HD
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rairadio2.png" group-title="Rai",Rai Radio 2
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7
 #EXTINF:-1 tvg-id="Home&GardenTV.it" tvg-chno="56" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/homegardentv.png" group-title="Discovery",HGTV - Home&Garden
 https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/tgs.png" group-title="Sicilia",TGS Giornale di Sicilia 
+https://stream7.xdevel.com/video1s975436-829/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/antennasicilia.png" group-title="Sicilia",Antenna Sicilia
+https://tivusto.org/sh/antennasicilia
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/videomediterraneo" group-title="Sicilia",Video Mediterraneo
+https://streamcdnb4-bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/insiciliatv.png" group-title="Sicilia",In Sicilia Tv
+https://broadcasting.mediagroupsrl.it:1433/hls/mystream.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/sicilia24.png" group-title="Sicilia",Sicilia 24
+https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/siciliauno.png" group-title="Sicilia",Siciliauno
+https://tivusto.org/sh/sicilia1
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/teleone.png" group-title="Sicilia",Tele One
+https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
 #EXTINF:-1 channel-id="pluto-60802b37709d6b0007b0c549" tvg-id="PlutoTvNatura.it" tvg-name="Tv Natura" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutonatura.png" group-title="Documentari",Pluto TV Natura
 http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?deviceId=0&deviceModel=web&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=0&deviceDNT=true
 #EXTINF:-1 channel-id="pluto-608aa8a5709d6b0007b132fe" tvg-id="PlutoTvDocumentari.it" tvg-name="Tv Documentari" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutodocumentari.png" group-title="Documentari",Pluto Tv Documentari
 http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?deviceId=0&deviceModel=web&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=0&deviceDNT=true
+#EXTINF:-1 channel-id="pluto-65253fdf3fd33c00080214a3" tvg-id="PlutoTvStoria.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutotvstoria.png" group-title="Documentari",Pluto TV Storia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65253fdf3fd33c00080214a3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-63c923944207be0007fd0887" tvg-id="PlutoTvViaggi.it" tvg-name="Pluto Tv Viaggi" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutotvviaggi" group-title="Documentari",Pluto Tv Viaggi
+http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/63c923944207be0007fd0887/master.m3u8?deviceId=0&deviceModel=web&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=0&deviceDNT=true
 #EXTINF:-1 channel-id="ITAJ3800007P8" tvg-id="ITAJ3800007P8" tvg-chno="4235" tvg-name="TV Serie" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutoserie.png" group-title="Telefilm", Pluto TV Serie
 https://jmp2.uk/sam-ITAJ3800007P8.m3u8
 #EXTINF:-1 tvg-id="PlutoTvFilm.it" tvg-name="Film" channel-id="pluto-608aa17fb9f4490007e6419a" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutofilm.png" group-title="Film",Pluto Film
