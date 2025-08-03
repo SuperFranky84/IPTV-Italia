@@ -135,7 +135,7 @@ https://streamcdnb4-bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4g
 https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/siciliauno.png" group-title="Sicilia",Siciliauno
 https://tivusto.org/sh/sicilia1
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/reitv.png" group-title="Sicilia",Rei Tv
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rei-tv.png" group-title="Sicilia",Rei Tv
 https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rtp.png" group-title="Sicilia",RTP 
 http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
