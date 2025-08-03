@@ -131,7 +131,7 @@ https://stream7.xdevel.com/video1s975436-829/stream/playlist.m3u8
 https://tivusto.org/sh/antennasicilia
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/video-mediterraneo.png" group-title="Sicilia",Video Mediterraneo
 https://streamcdnb4-bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/sicilia24.png" group-title="Sicilia",Sicilia 24
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/sicilia24tv.png" group-title="Sicilia",Sicilia 24
 https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/siciliauno.png" group-title="Sicilia",Siciliauno
 https://tivusto.org/sh/sicilia1
