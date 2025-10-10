@@ -6,7 +6,7 @@ Sarò io a decidere, a mia discrezione, se aggiungere, rimuovere o aggiornare i 
 
 Ogni qualvolta avrò tempo, verificherò se i canali compresi nella lista sono sempre visibili oppure se ci sarà bisogno di aggiornare i relativi link.
 
-Tale lista è stata creata estraendo i canali che mi interessano da queste altre 2 liste: 
+Tale lista è stata creata estraendo i canali a cui sono interessato da queste altre 2 liste: 
 
 http://inthemix.altervista.org/tv.m3u
 
