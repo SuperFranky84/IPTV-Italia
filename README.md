@@ -4,7 +4,7 @@ Pertanto non risponderò a richieste di aggiunte di canali, a richieste di modif
 
 Sarò io a decidere, a mia discrezione, se aggiungere, rimuovere o aggiornare i canali.
 
-Ogni qualvolta avrò tempo, verificherò se i canali compresi nella lista sono sempre visibili oppure se ci sarà bisogno di aggiornare i relativi link ai flussi.
+Ogni qualvolta avrò tempo, verificherò se i canali compresi nella lista sono sempre visibili oppure se ci sarà bisogno di aggiornare i relativi link.
 
 Tale lista è stata creata prendendo i canali che mi interessano da queste altre 2 liste: 
 
