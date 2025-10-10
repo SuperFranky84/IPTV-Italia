@@ -12,6 +12,6 @@ http://inthemix.altervista.org/tv.m3u
 
 https://tivustream.website/urls/listm3u
 
-dalle quali prendo spunto anche per aggiornare eventuali link non funzionanti.
+dalle quali prendo spunto periodicamente anche per aggiornare eventuali link non funzionanti.
 
 Pertanto chi vuole una lista più completa o vuole crearsene una propria, può fare riferimento alle 2 liste di cui sopra.
