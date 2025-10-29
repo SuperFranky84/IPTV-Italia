@@ -31,7 +31,7 @@ https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Rai5.it" tvg-chno="23" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rai5.png" group-title="Rai",Rai 5
-http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-b.m3u8
+https://raicinque1-dash-live.akamaized.net/dash/live/664003/raicinque1/manifest.mpd
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-chno="24" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/raimovie.png" group-title="Rai",Rai Movie
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playlist.m3u8
