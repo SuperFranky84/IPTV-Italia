@@ -31,8 +31,7 @@ https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Rai5.it" tvg-chno="23" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rai5.png" group-title="Rai",Rai 5
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raicinque1/hls/rai5_2400/chunklist.m3u8?baseuri=%2Fraicinque1%2Fhls%2F&tstart=0&tend=1761798025&tk2=9473f4d2a86de91e7bc8ad54553ff5e863cb82135c8f2c1aa52b34ea8cd5fff7
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-chno="24" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/raimovie.png" group-title="Rai",Rai Movie
 https://raimovie1-dash-live.akamaized.net/dash/live/663983/raimovie1/manifest.mpd
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-chno="25" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/raipremium.png" group-title="Rai",Rai Premium
