@@ -191,13 +191,14 @@ https://chili-chili-alta-tensione-1-it.plex.wurl.tv/4300.m3u8
 https://chili-chilivelvet-1-it.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 channel-id="samsung-ITBC1100003KC" tvg-id="ITBC1100003KC" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/chiligrandinomi.png" group-title="Film",CHILI Film Grandi Nomi
 https://chili-chiliindimenticabili-1-it.plex.wurl.tv/4300.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/Sonyonefilmazione.png",Sony One | Film d’azione
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/Sonyonefilmazione.png" group-title="Film",Sony One | Film d’azione
 https://a28a692c016c4af79ab371df5054a0be.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-823-IT-SONYONEFILMDAZIONE-LG_IT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/Sonyonefilmdivertenti.png",Sony One | Film divertenti
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/Sonyonefilmdivertenti.png" group-title="Film",Sony One | Film divertenti
 https://076507c6230e400ebcce99e452f12b7f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-824-IT-SONYONEFILMDIVERTENTI-LG_IT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/Sonyoneseriethriller.png"",Sony One | Serie Thriller
-https://ffec840c10d546f0a04a004f8fd61ce4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-827-IT-SONYONESERIETHRILLER-LG_IT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/Sonyoneseriedaridere.png",Sony One | Serie da Ridere
-https://5ee04aace69647d9beda78401dc4c0ee.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-825-IT-SONYONESERIEDARIDERE-LG_IT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/Sonyonepopolari.png",Sony One | Popolari
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/Sonyonepopolari.png" group-title="Film",Sony One | Popolari
 https://15bd51164d444cf0b03f472a0b40381b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-826-IT-SONYONEPOPOLARI-LG_IT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/Sonyoneseriethriller.png" group-title="Telefilm",Sony One | Serie Thriller
+https://ffec840c10d546f0a04a004f8fd61ce4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-827-IT-SONYONESERIETHRILLER-LG_IT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/Sonyoneseriedaridere.png" group-title="Telefilm",Sony One | Serie da Ridere
+https://5ee04aace69647d9beda78401dc4c0ee.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-825-IT-SONYONESERIEDARIDERE-LG_IT/playlist.m3u8
+
