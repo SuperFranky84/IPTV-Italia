@@ -39,7 +39,7 @@ https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playli
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raipremium3-live.akamaized.net/hls/live/2018013/raipremium3/raipremium3/playlist.m3u8
 #EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="26" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/cielo.png" group-title="Sky",Cielo
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1765458141~exp=1765458441~acl=/*~hmac=70f137a4cf17253c0812ba538dd19364c1c801ba6608094ddb3382b36d9bdba1
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1765458233~exp=1765458533~acl=/*~hmac=a265caeb8a76b251928d4ca58a6ae3f94b09fe1e7583494354bb164d5b415323
 #EXTINF:-1 tvg-id="TwentySeven.it" tvg-chno="27" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/twentyseven.png" group-title="Mediaset",Twenty Seven
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
