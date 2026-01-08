@@ -98,7 +98,7 @@ https://5f22d76e220e1.streamlock.net/supersixnew/supersixnew/playlist.m3u8
 #EXTINF:-1 tvg-name="MAN-GA" tvg-id="Manga.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/manga.png" group-title="Altro",MAN-GA
 https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u8
 #EXTINF:-1 channel-id="pluto-65b90daed77d450008a43345" tvg-id="65b90daed77d450008a43345" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutoanime.png" group-title="Altro",Pluto Anime
-https://jmp2.uk/plu-65b90daed77d450008a43345.m3u8
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65b90daed77d450008a43345/master.m3u8?
 #EXTINF:-1 tvg-id="Italia2.it" tvg-chno="49" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/italia2.png" group-title="Mediaset",Italia 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
@@ -150,7 +150,7 @@ http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/ma
 #EXTINF:-1 channel-id="pluto-60802b37709d6b0007b0c549" tvg-id="PlutoTvNatura.it" tvg-name="Tv Natura" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutonatura.png" group-title="Documentari",Pluto TV Natura
 http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?deviceId=0&deviceModel=web&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=0&deviceDNT=true
 #EXTINF:-1 channel-id="pluto-65253fdf3fd33c00080214a3" tvg-id="PlutoTvStoria.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutotvstoria.png" group-title="Documentari",Pluto TV Storia
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65253fdf3fd33c00080214a3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65253fdf3fd33c00080214a3/master.m3u8?
 #EXTINF:-1 channel-id="pluto-63c923944207be0007fd0887" tvg-id="PlutoTvViaggi.it" tvg-name="Pluto Tv Viaggi" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutotvviaggi.png" group-title="Documentari",Pluto TV Viaggi
 http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/63c923944207be0007fd0887/master.m3u8?deviceId=0&deviceModel=web&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=0&deviceDNT=true
 #EXTINF:-1 channel-id="ITAJ3800007P8" tvg-id="ITAJ3800007P8" tvg-chno="4235" tvg-name="TV Serie" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutoserie.png" group-title="Telefilm", Pluto TV Serie
