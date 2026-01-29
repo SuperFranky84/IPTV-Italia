@@ -35,7 +35,7 @@ https://raicinque1-dash-live.akamaized.net/dash/live/664003/raicinque1/manifest.
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-chno="24" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/raimovie.png" group-title="Rai",Rai Movie
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playlist.m3u8
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-chno="25" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/raipremium.png" group-title="Rai",Rai Premium
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-chno="25" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rai_premium.png" group-title="Rai",Rai Premium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raipremium3-live.akamaized.net/hls/live/2018013/raipremium3/raipremium3/playlist.m3u8
 #EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="26" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/cielo.png" group-title="Sky",Cielo
