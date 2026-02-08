@@ -15,3 +15,5 @@ https://tivustream.website/urls/listm3u
 dalle quali prendo spunto periodicamente anche per aggiornare eventuali link non funzionanti.
 
 Pertanto chi vuole una lista più completa o vuole crearsene una propria, può fare riferimento alle 2 liste di cui sopra.
+
+Come applicazione per l'utilizzo di questa lista vi consiglio M3U IPTV, disponibile per diverse piattaforme (c'è anche una versione gratuita): https://m3u-ip.tv/
