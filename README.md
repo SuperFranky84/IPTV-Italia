@@ -16,6 +16,6 @@ dalle quali prendo spunto periodicamente anche per aggiornare eventuali link non
 
 Pertanto chi vuole una lista più completa o vuole crearsene una propria, può fare riferimento alle 2 liste di cui sopra.
 
-Come applicazione per l'utilizzo di questa lista vi consiglio M3U IPTV (la versione gratuita), disponibile per diverse piattaforme: https://m3u-ip.tv/
+Come applicazione per l'utilizzo di questa lista consiglio M3U IPTV (la versione gratuita), disponibile per diverse piattaforme: https://m3u-ip.tv/
 
 Qui il link diretto all'apk per la versione Android: https://m3u-ip.com/latest-android.apk
