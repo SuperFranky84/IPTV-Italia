@@ -20,4 +20,4 @@ Per l'utilizzo di questa lista consiglio l'applicazione M3U IPTV, disponibile pe
 
 Qui il link al sito ufficiale dell'app: https://m3u-ip.tv/
 
-Qui il link diretto all'apk per la versione gratuita di Android: https://m3u-ip.com/latest-android.apk
+Qui il link diretto all'apk della versione gratuita di Android: https://m3u-ip.com/latest-android.apk
