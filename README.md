@@ -1,6 +1,6 @@
 Questa è una lista di canali trasmessi in chiaro, creata per mio uso personale in quanto nella mia zona non c'è copertura di segnale d'antenna.
 
-Pertanto non risponderò a richieste di aggiunte di canali, a richieste di modifiche o di segnalazioni di alcun tipo. 
+Pertanto chi vuole può usufruirne, ma non risponderò a richieste di aggiunte di canali, a richieste di modifiche o di segnalazioni di alcun tipo. 
 
 Sarò io a decidere, a mia discrezione, se aggiungere, rimuovere o aggiornare i canali.
 
