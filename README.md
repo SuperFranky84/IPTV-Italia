@@ -25,3 +25,7 @@ Per l'utilizzo di questa lista consiglio l'applicazione M3U IPTV, disponibile pe
 Qui il link al sito ufficiale dell'app: https://m3u-ip.tv/. E' disponibile sia una versione gratuita sia una versione a pagamento.
 
 Qui il link diretto all'apk della versione gratuita di Android (funzionante anche su Android TV/Fire OS): https://m3u-ip.com/latest-android.apk
+
+Questo repository GitHub non contiene alcun materiale hostato che possa essere considerato protetto da diritti d'autore o copyright in quanto questo repository rimanda a risorse di pubblico dominio ottenibili attraverso qualunque motore di ricerca.
+
+La Pluto TV detiene tutti i diritti sui contenuti forniti tramite i suoi servizi, qualora ritenesse questo repository github non conforme tramite apertura di una issues o DMCA sarà mia premura eliminare i link ad essa associata al più presto.
