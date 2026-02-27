@@ -160,7 +160,7 @@ https://jmp2.uk/stvp-ITAJ38000055E
 #EXTINF:-1 tvg-id="PlutoTvFilmAzione.it" tvg-name="Film Azione" channel-id="pluto-608aa20a2e7f270007c4878d" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutoazione.png" group-title="Film",Pluto Film Azione
 https://jmp2.uk/stvp-ITBC3000003CT
 #EXTINF:-1 channel-id="pluto-608aa5e995132a00075f7005" tvg-id="PlutoTvFilmThriller.it" tvg-name="Film thriller" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutofilmthriller.png" group-title="Film",Pluto Film Thriller
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=0&appVersion=0&deviceDNT=true&deviceId=0&marketingRegion=IT&embedPartner=samsung-tvplus
+https://pluto.tv/it/live-tv/608aa5e995132a00075f7005
 #EXTINF:-1 channel-id="pluto-608aa512d67fd900072323db" tvg-id="PlutoTvFilmCommedia.it" tvg-name="Film commedia" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutofilmcommedia.png" group-title="Film",Pluto Film Commedia
 https://jmp2.uk/stvp-ITBC3000002WL
 #EXTINF:-1 channel-id="pluto-608aa4a4cc92820007b663af" tvg-id="PlutoTvFilmRomantici.it" tvg-name="Film Romantici" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutofilmromantici.png" group-title="Film",Pluto Film Romantici
