@@ -153,40 +153,44 @@ https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg0
 https://jmp2.uk/stvp-IT2900001B5
 #EXTINF:-1 channel-id="ITAJ3800007P8" tvg-id="ITAJ3800007P8" tvg-chno="4235" tvg-name="Pluto TV Serie" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutotvserie.png" group-title="Serie",Pluto TV Serie
 https://jmp2.uk/stvp-ITAJ3800007P8
-#EXTINF:-1 channel-id="ITAJ38000055E" tvg-id="ITAJ38000055E" tvg-chno="4876" tvg-name="Pluto TV Samsung Channels" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutotop.png" group-title="Film",Pluto Film Top
+#EXTINF:-1 channel-id="ITAJ38000055E" tvg-id="ITAJ38000055E" tvg-chno="4876" tvg-name="Pluto TV Samsung Channels" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutotop.png" group-title="Film",Pluto - Film Top
 https://jmp2.uk/stvp-ITAJ38000055E
-#EXTINF:-1 channel-id="ITBC3000003CT" tvg-id="ITBC3000003CT" tvg-chno="4995" tvg-name="Pluto TV Samsung Channels Azione" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/pluto-azione.png" group-title="Film",Pluto Film Azione
+#EXTINF:-1 channel-id="ITBC3000003CT" tvg-id="ITBC3000003CT" tvg-chno="4995" tvg-name="Pluto TV Samsung Channels Azione" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/pluto-azione.png" group-title="Film",Pluto - Film Azione
 https://jmp2.uk/stvp-ITBC3000003CT
-#EXTINF:-1 channel-id="ITBC3000002WL" tvg-id="ITBC3000002WL" tvg-chno="4915" tvg-name="Pluto TV Samsung Channels Commedia" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutocommedia.png" group-title="Film",Pluto Film Commedia
+#EXTINF:-1 channel-id="ITBC3000002WL" tvg-id="ITBC3000002WL" tvg-chno="4915" tvg-name="Pluto TV Samsung Channels Commedia" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutocommedia.png" group-title="Film",Pluto - Film Commedia
 https://jmp2.uk/stvp-ITBC3000002WL
-#EXTINF:-1 channel-id="ITAJ3800009J1" tvg-id="ITAJ3800009J1" tvg-chno="4898" tvg-name="Pluto TV Samsung Channels Romantici" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutoromantici.png" group-title="Film",Pluto Film Romantici
+#EXTINF:-1 channel-id="ITAJ3800009J1" tvg-id="ITAJ3800009J1" tvg-chno="4898" tvg-name="Pluto TV Samsung Channels Romantici" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutoromantici.png" group-title="Film",Pluto - Film Romantici
 https://jmp2.uk/stvp-ITAJ3800009J1
-#EXTINF:-1 tvg-name="Film Top - Rakuten TV" tvgid="RakutenTopFreeItRakutenTv.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rakutentop.png" tvg-chno="12" channel-number="12" group-title="Film",Rakuten Film Top
+#EXTINF:-1 tvg-name="Film Top - Rakuten TV" tvgid="RakutenTopFreeItRakutenTv.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rakutentop.png" tvg-chno="12" channel-number="12" group-title="Film",Rakuten - Film Top
 https://top-movies-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
-#EXTINF:-1 tvg-name="Film d'azione - Rakuten TV" tvgid="RakutenActionItRakutenTv.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rakutenazione.png" tvg-chno="13" channel-number="13" group-title="Film",Rakuten Film Azione
+#EXTINF:-1 tvg-name="Film d'azione - Rakuten TV" tvgid="RakutenActionItRakutenTv.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rakutenazione.png" tvg-chno="13" channel-number="13" group-title="Film",Rakuten - Film Azione
 https://action-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
-#EXTINF:-1 tvg-name="Fantascienza - Rakuten TV" tvgid="RakutenThrillerItRakutenTv.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rakutenfantasy.png" group-title="Film",Rakuten Film Fantascienza
+#EXTINF:-1 tvg-name="Fantascienza - Rakuten TV" tvgid="RakutenThrillerItRakutenTv.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rakutenfantasy.png" group-title="Film",Rakuten - Film Fantascienza
 https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8
-#EXTINF:-1 tvg-name="Dramma - Rakuten TV" tvgid="RakutenDramaItRakutenTv.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rakutendramma.png" tvg-chno="14" channel-number="14" group-title="Film",Rakuten Film Dramma
+#EXTINF:-1 tvg-name="Dramma - Rakuten TV" tvgid="RakutenDramaItRakutenTv.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rakutendramma.png" tvg-chno="14" channel-number="14" group-title="Film",Rakuten - Film Dramma
 https://drama-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
-#EXTINF:-1 tvg-name="Romance - Rakuten TV" tvgid="RakutenRomanceItRakutenTv.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rakutenromance.png" tvg-chno="16" channel-number="16" group-title="Film",Rakuten Film Romantici
+#EXTINF:-1 tvg-name="Romance - Rakuten TV" tvgid="RakutenRomanceItRakutenTv.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rakutenromance.png" tvg-chno="16" channel-number="16" group-title="Film",Rakuten - Film Romantici
 https://romance-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
-#EXTINF:-1 tvg-name="Commedia - Rakuten TV" tvgid="RakutenComedyItRakutenTv.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rakutencommedia.png" tvg-chno="17" channel-number="17" group-title="Film",Rakuten Film Commedia
+#EXTINF:-1 tvg-name="Commedia - Rakuten TV" tvgid="RakutenComedyItRakutenTv.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rakutencommedia.png" tvg-chno="17" channel-number="17" group-title="Film",Rakuten - Film Commedia
 https://comedy-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
-#EXTINF:-1 tvg-name="Family - Rakuten TV" channel-id="ITBA14000043B" vg-id="RakutenFamilyItRakutenTv.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rakutenfamily.png" group-title="Film",Rakuten Film Famiglia
+#EXTINF:-1 tvg-name="Family - Rakuten TV" channel-id="ITBA14000043B" vg-id="RakutenFamilyItRakutenTv.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rakutenfamily.png" group-title="Film",Rakuten - Film Famiglia
 https://family-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/nexothriller.png" group-title="Film",NEXO Film Thriller
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/nexothriller.png" group-title="Film",NEXO - Film Thriller
 https://amg02512-nexodigital-amg02512c2-samsung-it-765.playouts.now.amagi.tv/playlist/amg02512-nexodigital-levitedeglialtri-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/nexocrime.png" group-title="Film",NEXO Film Crime
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/nexocrime.png" group-title="Film",NEXO - Film Crime
 https://amg02512-amg02512c9-samsung-it-5470.playouts.now.amagi.tv/playlist/amg02512-nexodigital-crimetime-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-name="Western Time" tvg-id="WesternTime.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/nexowestern.png" group-title="Film",NEXO Film Western
+#EXTINF:-1 tvg-name="Western Time" tvg-id="WesternTime.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/nexowestern.png" group-title="Film",NEXO - Film Western
 https://amg02512-amg02512c8-samsung-it-5139.playouts.now.amagi.tv/playlist/amg02512-nexodigital-westerntime-samsungit/playlist.m3u8
-#EXTINF:-1 channel-id="SamsungAltaTensione.it" tvg-id="SamsungAltaTensione.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/chilialtatensione.png" group-title="Film",CHILI Film Alta Tensione
+#EXTINF:-1 channel-id="SamsungAltaTensione.it" tvg-id="SamsungAltaTensione.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/chilialtatensione.png" group-title="Film",CHILI - Film Alta Tensione
 https://chili-chili-alta-tensione-1-it.plex.wurl.tv/4300.m3u8
-#EXTINF:-1 channel-id="samsung-ITBC11000047F" tvg-id="ITBC11000047F" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/chilivelvet.png" group-title="Film",CHILI Film Romantici
+#EXTINF:-1 channel-id="samsung-ITBC11000047F" tvg-id="ITBC11000047F" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/chilivelvet.png" group-title="Film",CHILI - Film Romantici
 https://chili-chilivelvet-1-it.plex.wurl.tv/4300.m3u8
-#EXTINF:-1 channel-id="samsung-ITBC1100003KC" tvg-id="ITBC1100003KC" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/chiligrandinomi.png" group-title="Film",CHILI Film Grandi Nomi
+#EXTINF:-1 channel-id="samsung-ITBC1100003KC" tvg-id="ITBC1100003KC" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/chiligrandinomi.png" group-title="Film",CHILI - Film Grandi Nomi
 https://chili-chiliindimenticabili-1-it.plex.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-name="Adrenaline Movies" tvgid="RakutenFullMoon.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/dusadrenalinemovie.png" group-title="Film",DUS - Film Andrenalina
+https://9ec78a7d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtaXRfRnVsbE1vb25fSExT/playlist.m3u8
+#EXTINF:-1 tvg-name="CineWestern" tvg-id="RakutenWesternEPeplum.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/duscinewestern.png" group-title="Film",DUS - Film Western
+https://3539e4a7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9XUF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/Sonyonefilmazione.png" group-title="Film",Sony One | Film d’azione
 https://a28a692c016c4af79ab371df5054a0be.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-823-IT-SONYONEFILMDAZIONE-LG_IT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/Sonyonefilmdivertenti.png" group-title="Film",Sony One | Film divertenti
