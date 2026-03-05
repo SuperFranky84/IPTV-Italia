@@ -68,8 +68,6 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-id="Discovery.Channel.it.it" channel-id="Discovery.Channel.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/discoverychannel.png" tvg-chno="36" group-title="Discovery",Discovery Channel
 https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
-#EXTINF:-1 tvg-name="Turbo" tvg-id="MotorTrend.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/discovery-turbo.png" tvg-chno="59" group-title="Discovery",Discovery Turbo
-https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 #EXTINF:-1 tvg-id="GialloTV.it" tvg-chno="38" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/giallo.png" group-title="Discovery",Giallo
 https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-chno="39" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/topcrime.png" group-title="Mediaset",Top Crime
@@ -135,8 +133,6 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://stream7.xdevel.com/video1s975436-829/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/video-mediterraneo.png" group-title="Sicilia",Video Mediterraneo
 https://streamcdnb4-bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/teleone.png" group-title="Sicilia",Tele One
-https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/insiciliatv.png" group-title="Sicilia",In Sicilia TV
 https://broadcasting.mediagroupsrl.it:1433/hls/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/sicilia24tv.png" group-title="Sicilia",Sicilia 24
@@ -147,6 +143,14 @@ https://57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/p
 https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rtphd.png" group-title="Sicilia",RTP 
 http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTvDocumentari.it" tvg-name="Documentari" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutodocumentari.png" group-title="Documentari",Pluto - Documentari
+https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
+#EXTINF:-1 tvg-id="PlutoTvNatura.it" tvg-name="Natura" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutonatura.png" group-title="Documentari",Pluto - Natura
+https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
+#EXTINF:-1 tvg-id="PlutoTvStoria.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutostoria.png" group-title="Documentari",Pluto - Storia
+https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
+#EXTINF:-1 tvg-id="PlutoTvViaggi.it" tvg-name="Pluto Tv Viaggi" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/plutoviaggi.png" group-title="Documentari",Pluto - Viaggi
+https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
 #EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/bbcearth.png" tvg-chno="53" group-title="Documentari",BBC Earth
 https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthitaly-samsungit/playlist.m3u8
 #EXTINF:-1 channel-id="IT2900001B5" tvg-id="IT2900001B5" tvg-chno="4233" tvg-name="BBC Series" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/bbcserie.png" group-title="Serie",BBC Serie
@@ -187,10 +191,6 @@ https://chili-chili-alta-tensione-1-it.plex.wurl.tv/4300.m3u8
 https://chili-chilivelvet-1-it.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 channel-id="samsung-ITBC1100003KC" tvg-id="ITBC1100003KC" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/chiligrandinomi.png" group-title="Film",CHILI - Film Grandi Nomi
 https://chili-chiliindimenticabili-1-it.plex.wurl.tv/4300.m3u8
-#EXTINF:-1 tvg-name="Adrenaline Movies" tvgid="RakutenFullMoon.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/dusadrenalinemovie.png" group-title="Film",DUS - Film Adrenalina
-https://9ec78a7d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtaXRfRnVsbE1vb25fSExT/playlist.m3u8
-#EXTINF:-1 tvg-name="CineWestern" tvg-id="RakutenWesternEPeplum.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/duscinewestern.png" group-title="Film",DUS - Film Western
-https://3539e4a7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9XUF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/Sonyonefilmazione.png" group-title="Film",Sony One - Film d’azione
 https://a28a692c016c4af79ab371df5054a0be.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-823-IT-SONYONEFILMDAZIONE-LG_IT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/Sonyonefilmdivertenti.png" group-title="Film",Sony One - Film divertenti
