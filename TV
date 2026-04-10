@@ -50,7 +50,7 @@ https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="LA7D.it" tvg-chno="29" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/LA7cinema.png" group-title="Altro",LA7 Cinema
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2b202e78a244da6876d5adbcf5d6a75:88c5efd5d7e49194cd780e773318f69d
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"orIC54okTaaHbVrbz11qdQ","k":"iMXv1dfkkZTNeA53Mxj2nQ"}],"type":"temporary"}
 https://d15umi5iaezxgx.cloudfront.net/LA7D/DRM/DASH/Live.mpd
 #EXTINF:-1 tvg-id="LA5.it" tvg-chno="30" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/la5.png" group-title="Mediaset",La 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
