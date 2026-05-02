@@ -8,7 +8,7 @@ Ogni qualvolta avrò tempo, verificherò se i canali compresi nella lista sono s
 
 Non autorizzo a pubblicizzare tale lista su altri siti, forum, ecc...
 
-Il link diretto alla mia lista è il seguente: https://raw.githubusercontent.com/SuperFranky84/IPTV-Italia/refs/heads/main/TV
+Il link diretto a questa lista è il seguente: https://raw.githubusercontent.com/SuperFranky84/IPTV-Italia/refs/heads/main/TV
 
 Per l'utilizzo di questa lista consiglio l'applicazione M3U IPTV, disponibile per diverse piattaforme (tra cui Android TV). 
 
