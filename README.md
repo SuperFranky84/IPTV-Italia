@@ -1,4 +1,4 @@
-Questa è una lista di canali trasmessi in chiaro, creata per mio uso personale in quanto nella mia zona non c'è copertura di segnale d'antenna.
+Questa è una lista di canali trasmessi in chiaro sul digitale terrestre, creata per mio uso personale in quanto nella mia zona non c'è copertura di segnale d'antenna.
 
 Pertanto chi vuole può usufruirne a livello personale, ma non risponderò a richieste di aggiunte di canali, a richieste di modifiche o di segnalazioni di alcun tipo.
 
