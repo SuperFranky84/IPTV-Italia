@@ -100,7 +100,7 @@ https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_h
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 tvg-name="SuperSIX" tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/supersix.png" group-title="Altro",SuperSIX
 https://5f22d76e220e1.streamlock.net/supersixnew/supersixnew/playlist.m3u8
-#EXTINF:-1 tvg-name="Anime Channel" tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/Anime_channel.png" group-title="Altro",Anime Channel
+#EXTINF:-1 tvg-name="Anime Channel" tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/animechannel.png" group-title="Altro",Anime Channel
 https://host2.hbbtv.me:28443/hls/animechannel/index.m3u8
 #EXTINF:-1 tvg-name="MAN-GA" tvg-id="Manga.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/man-ga.png" group-title="Altro",MAN-GA
 https://vdnwndmsc2-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
