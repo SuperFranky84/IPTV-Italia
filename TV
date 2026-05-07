@@ -58,7 +58,7 @@ https://d15umi5iaezxgx.cloudfront.net/LA7D/DRM/DASH/Live.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="RealTime.it" tvg-chno="31" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/realtime.png" group-title="Discovery",Real Time
-https://streaming.aurora.enhanced.live/live/mtc/v1/master/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WEB/index.m3u8?playerParams.channel=realtime&playerParams.caid=realtime&playerParams.slate=realtime&playerParams.transcodeprofile=hls&manifest.mt=7714a87e43154eab82078e593a90ff3f&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzgxNzk1MjAsIm5iZiI6MTc3ODE3OTUyMCwiZXhwIjoxNzc4MTc5ODgwLCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTUxLjYzLjEyNy4zNyJ9.8YUs_Jw-Rh-X19VcNhN875rcHx5-EsXaskIYgD3yuVA
+https://streaming.aurora.enhanced.live/live/mtc/v1/master/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WEB/index.m3u8?
 #EXTINF:-1 tvg-id="QVC.it" tvg-chno="32" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/QVC.png" group-title="Altro",QVC
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 #EXTINF:-1 tvg-name="Gambero Rosso" tvg-id="GamberoRosso.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/gamberorosso.png" tvg-chno="32" group-title="Altro",Gambero Rosso
