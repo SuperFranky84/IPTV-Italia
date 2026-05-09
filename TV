@@ -100,10 +100,9 @@ https://raigulp1-dash-live.akamaized.net/dash/live/663985/raigulp1/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raiyoyo1-dash-live.akamaized.net/dash/live/663949/raiyoyo1/manifest.mpd
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-chno="44" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/frisbeetv.png" group-title="Discovery",Frisbee
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"VONrgIEUn4L+3ooHO7hJ6g","k":"WR45diUsZ7PTdU4Fv7GMxg"}],"type":"temporary"}
-https://alwaysdata-api.zappr.stream/frisbee.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+https://d6m7lubks416z.cloudfront.net/Frisbee_IT_1.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-chno="46" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/cartoonito.png" group-title="Mediaset",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
