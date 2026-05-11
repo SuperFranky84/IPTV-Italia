@@ -93,7 +93,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQDzs30qOtJULXjQAP+R+g","k":"UH6tky/iXm8eO6D8OfxwQA"},{"kty":"oct","kid":"AQHYm00ZAGhn+jKAelILPA","k":"a3+taza5258uWpX0uTSm/Q"},{"kty":"oct","kid":"0102744f58a20d0e5153c97be37abac5","k":"cfdc30074c2b9c006b77d103b0566fa6"}],"type":"temporary"}
-https://alwaysdata-api.zappr.stream/k2.mpd
+https://alwaysdata-api.zappr.stream/k2.mpd?clearkeyPlayer.maxQuality=720
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-chno="42" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/raigulp.png" group-title="Rai",Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raigulp1-dash-live.akamaized.net/dash/live/663985/raigulp1/manifest.mpd
