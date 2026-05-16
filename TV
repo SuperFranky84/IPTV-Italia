@@ -93,7 +93,6 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type="clearkey"
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQDzs30qOtJULXjQAP+R+g","k":"UH6tky/iXm8eO6D8OfxwQA"},{"kty":"oct","kid":"AQHYm00ZAGhn+jKAelILPA","k":"a3+taza5258uWpX0uTSm/Q"},{"kty":"oct","kid":"AQJ0T1iiDQ5RU8l743q6xQ","k":"z9wwB0wrnABrd9EDsFZvpg"},{"kty":"oct","kid":"AQMOZl/+MjjXdUyoYiB8kw","k":"AAAAAAAAAAAAAAAAAAAAAA"},{"kty":"oct","kid":"AQSaEb2bZ0mkmaBuRCx2/w","k":"AAAAAAAAAAAAAAAAAAAAAA"},{"kty":"oct","kid":"AQXUzpSoqBeWu73Gq0rYXg","k":"AAAAAAAAAAAAAAAAAAAAAA"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.max_video_resolution=720
 https://alwaysdata-api.zappr.stream/k2.mpd?clearkeyPlayer.maxQuality=720
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-chno="42" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/raigulp.png" group-title="Rai",Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
