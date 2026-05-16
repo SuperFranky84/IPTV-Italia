@@ -8,10 +8,6 @@ Ogni qualvolta avrò tempo, verificherò se i canali compresi nella lista sono s
 
 Non autorizzo a pubblicizzare tale lista su altri siti, forum, ecc...
 
-Il link diretto a questa lista è il seguente: https://raw.githubusercontent.com/SuperFranky84/IPTV-Italia/refs/heads/main/TV
+Per l'utilizzo di questa lista consiglio l'applicazione M3U IPTV, disponibile per diverse piattaforme (tra cui Android TV):
 
-Per l'utilizzo di questa lista consiglio l'applicazione M3U IPTV, disponibile per diverse piattaforme (tra cui Android TV). 
-
-Qui il link al sito ufficiale dell'app: https://m3u-ip.tv/. E' disponibile sia una versione gratuita sia una versione a pagamento.
-
-Qui il link diretto all'apk della versione gratuita di Android (funzionante anche su Android TV/Fire OS): https://m3u-ip.com/latest-android.apk
+https://play.google.com/store/apps/details?id=de.herber_edevelopment.m3uiptv&hl=it
