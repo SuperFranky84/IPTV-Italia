@@ -91,7 +91,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="K2.it" tvg-chno="41" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/kappa_due.png" group-title="Discovery",K2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={0100f3b37d2a3ad2542d78d000ff91fa:507ead932fe25e6f1e3ba0fc39fc7040,0101d89b4d19006867fa32807a520b3c:6b7fad6b36b9db9f2e5a95f4b934a6fd,0102744f58a20d0e5153c97be37abac5:cfdc30074c2b9c006b77d103b0566fa6,01030e665ffe3238d7754ca862207c93:00000000000000000000000000000000,01049a11bd9b6749a499a06e442c76ff:00000000000000000000000000000000,0105d4ce94a8a81796bbbdc6ab4ad85e:00000000000000000000000000000000}
+#KODIPROP:inputstream.adaptive.license_key={"0100f3b37d2a3ad2542d78d000ff91fa":"507ead932fe25e6f1e3ba0fc39fc7040","0101d89b4d19006867fa32807a520b3c":"6b7fad6b36b9db9f2e5a95f4b934a6fd","0102744f58a20d0e5153c97be37abac5":"cfdc30074c2b9c006b77d103b0566fa6","01030e665ffe3238d7754ca862207c93":"00000000000000000000000000000000","01049a11bd9b6749a499a06e442c76ff":"00000000000000000000000000000000","0105d4ce94a8a81796bbbdc6ab4ad85e":"00000000000000000000000000000000"}
 https://alwaysdata-api.zappr.stream/k2.mpd?clearkeyPlayer.maxQuality=720
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-chno="42" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/raigulp.png" group-title="Rai",Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
