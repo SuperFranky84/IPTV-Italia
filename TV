@@ -101,10 +101,10 @@ https://raigulp1-dash-live.akamaized.net/dash/live/663985/raigulp1/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raiyoyo1-dash-live.akamaized.net/dash/live/663949/raiyoyo1/manifest.mpd
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-chno="44" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/frisbeetv.png" group-title="Discovery",Frisbee
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0100c4e62e71f8234dd351c39719f289":"54e36b8081149f82fede8a073bb849ea","0101df8e46342feb1c3af4deb9cae20e":"591e3976252c67b3d3754e05bfb18cc6","01020282919b84db71cbb1d4d9c5b8da":"6f5960345613d78c9142da316514c497","010359f5430752b1a62adb5c6582b6f2":"00000000000000000000000000000000","0104cc42b23760320f22db99e1e6f7e9":"00000000000000000000000000000000","0105b63eff2190f9c01c9b160cdd8f78":"00000000000000000000000000000000"}
-https://alwaysdata-api.zappr.stream/frisbee.mpd?clearkeyPlayer.maxQuality=720
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type="clearkey"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQDE5i5x+CNN01HDlxnyiQ","k":"VONrgIEUn4L+3ooHO7hJ6g"},{"kty":"oct","kid":"AQHfjkY0L+scOvTeucriDg","k":"WR45diUsZ7PTdU4Fv7GMxg"},{"kty":"oct","kid":"AQICgpGbhNtxy7HU2cW42g","k":"b1lgNFYT14yRQtoxZRTElw"},{"kty":"oct","kid":"AQNZ9UMHUrGmKttcZYK28g","k":"AAAAAAAAAAAAAAAAAAAAAA"},{"kty":"oct","kid":"AQTMQrI3YDIPItuZ4eb36Q","k":"AAAAAAAAAAAAAAAAAAAAAA"},{"kty":"oct","kid":"0105b63eff2190f9c01c9b160cdd8f78","k":"AAAAAAAAAAAAAAAAAAAAAA"}],"type":"temporary"}
+https://alwaysdata-api.zappr.stream/frisbee.mpd
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-chno="46" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/cartoonito.png" group-title="Mediaset",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
