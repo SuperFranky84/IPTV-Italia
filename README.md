@@ -9,5 +9,3 @@ Ogni qualvolta avrò tempo, verificherò se i canali compresi nella lista sono s
 Non autorizzo a pubblicizzare tale lista su altri siti, forum, ecc...
 
 Per l'utilizzo di questa lista consiglio l'applicazione M3U IPTV, disponibile per diverse piattaforme (tra cui Android TV).
-
-Per i canali K2 e Frisbee, per essere visibili, bisogna selezionare una risoluzione a 720P tra i formati video disponibili.
