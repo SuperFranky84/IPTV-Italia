@@ -150,12 +150,12 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16&for
 #EXTINF:-1 tvg-name="RSI La1" tvg-id="rsila1" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/RSILa1.png" group-title="Altro",RSI La1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=09af5f6eb89041ca8f5d164165142e86:1989cc9c9ce5b2b52cb93edaaefe8420
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Ca9fbriQQcqPXRZBZRQuhg","k":"GYnMnJzlsrUsuT7arv6EIA"}],"type":"temporary"}
 https://wp2-obc0708-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09042/manifest.mpd
 #EXTINF:-1 tvg-name="RSI La2" tvg-id="rsila2" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/RSILa2.png" group-title="Altro",RSI La2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=117d07fd98cc46ef8e09936d0d37c506:b9528cb3f23eaad789f0f33bf6b01868
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"EX0H/ZjMRu+OCZNtDTfFBg","k":"uVKMs/I+qteJ8PM79rAYaA"}],"type":"temporary"}
 https://wp2-obc0708-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09043/manifest.mpd
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/tgsgiornaledisicilia.png" group-title="Sicilia",TGS Giornale di Sicilia 
 https://stream7.xdevel.com/video1s975436-829/stream/playlist.m3u8
