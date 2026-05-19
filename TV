@@ -149,7 +149,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forc
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-name="Sport Italia" tvg-id="sportitalia" tvg-chno="59" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/SportItalia.png" group-title="Sport",Sport Italia
 https://distribution.sportitalialive.it/sportitalia/sihd_abr2/playlist.m3u8
-EXTINF:-1 tvg-name="TV Sport" tvg-id="PlutoTvSport.it" tvg-chno="60" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/PlutoSport.png" group-title="Sport",Pluto - Sport
+#EXTINF:-1 tvg-name="TV Sport" tvg-id="PlutoTvSport.it" tvg-chno="60" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/PlutoSport.png" group-title="Sport",Pluto - Sport
 https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/tgsgiornaledisicilia.png" group-title="Sicilia",TGS Giornale di Sicilia 
 https://stream7.xdevel.com/video1s975436-829/stream/playlist.m3u8
