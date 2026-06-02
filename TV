@@ -82,7 +82,7 @@ https://d3a5c87efixjp8.cloudfront.net/out/v1/12837340dbdf42f2b13481a5ca6f80b2/HL
 #EXTINF:-1 tvg-id="GialloTV.it" tvg-chno="37" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/giallo.png" group-title="Discovery",Giallo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
-https://streaming.aurora.enhanced.live/live/mtc/v1/manifest/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WEB/4b2d8c03-9abc-4589-8a3b-62a2b2116afd/4.m3u8
+https://streaming.aurora.enhanced.live/live/mtc/v1/manifest/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WEB/4b2d8c03-9abc-4589-8a3b-62a2b2116afd/4.m3u8?manifest.mt=7714a87e43154eab82078e593a90ff3f&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3ODAzODk0NDEsIm5iZiI6MTc4MDM4OTQ0MSwiZXhwIjoxNzgwMzg5ODAxLCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMzEuMTg5LjE2MS40OSJ9.oIg0SZKa612YjTAgM7kN1mlqJ6xai_EJCPPMpMhlXck
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-chno="38" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/topcrime.png" group-title="Mediaset",Top Crime
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
