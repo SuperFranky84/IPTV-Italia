@@ -87,7 +87,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="K2.it" tvg-chno="40" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/kappa_due.png" group-title="Discovery",K2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQDzs30qOtJULXjQAP+R+g","k":"UH6tky/iXm8eO6D8OfxwQA"},{"kty":"oct","kid":"AQXUzpSoqBeWu73Gq0rYXg","k":"ydhOxLc1msrSK4V2SyTkzg"}]}
-https://alwaysdata-api.zappr.stream/k2.mpd
+https://api.zappr.stream/k2.mpd?clearkeyPlayer.maxQuality=720
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-chno="41" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/raigulp.png" group-title="Rai",Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
@@ -97,7 +97,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forc
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-chno="43" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/frisbeetv.png" group-title="Discovery",Frisbee
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQDE5i5x+CNN01HDlxnyiQ","k":"VONrgIEUn4L+3ooHO7hJ6g"},{"kty":"oct","kid":"AQW2Pv8hkPnAHJsWDN2PeA","k":"el3t07BdL3N+jKVzJhHPEA"}]}
-https://alwaysdata-api.zappr.stream/frisbee.mpd
+https://api.zappr.stream/frisbee.mpd?clearkeyPlayer.maxQuality=720
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-chno="44" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/cartoonito.png" group-title="Mediaset",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
