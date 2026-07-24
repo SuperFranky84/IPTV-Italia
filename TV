@@ -86,7 +86,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="K2.it" tvg-chno="40" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/kappa_due.png" group-title="Discovery",K2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={01004587127a0e454158b5e7392283d7:2db7dd74073a6f2a5d5444bbfbe157f2,0101c9838be12fc94f2e2bb4f6137488:351e58868f9609833180101e8fdcb4bb,0102e7882e14ba5223411d61580a2e70:48141c60c33b393b1cb894afbe296496,0103936b48b232229e90e0fe748a5127:40fede50a7c079885cc1f5aeb0611938,0104a90d8377c8397a16db6aea00255d:0182a7edbf2671485557922934cce375,010572e14f306c6bc9321cd6231457b8:45cae75a5d4073406ee2f524f837c6d4}
+#KODIPROP:inputstream.adaptive.license_key={0100ba5d29a372845ef226049f684ec5:cb0e3ac2559b4537cffcd130644e5217,01010dbb15af95a17086d1c21d5158df:3a167d7de6361eefe75d6d4eca03aa2a,0102ec0417e0159d451394828b608b28:eed709c12d9202009dc6d105c957a080}
 https://api.zappr.stream/k2.mpd
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-chno="41" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/raigulp.png" group-title="Rai",Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
