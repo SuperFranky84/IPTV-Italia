@@ -96,7 +96,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forc
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-chno="43" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/frisbeetv.png" group-title="Discovery",Frisbee
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={010036356507e020b45b2603e2814373:51029ecaaff8ef429fd8c41cc672cec0,010167cff5cc52576f396d1ec8827cfa:1a39558797b040f528032ecca74d6b3f,01020b636a6a1e0b812eef00f28e3538:26bba1b5e42cb88b793241d2d7119fb5,0103d507c94e1bf4d556011010deba71:12a125c9a43b489a0adb3b937f618057,01045825dc15605c4de3845c3059fbb4:f87037afaefca37df7c2d92de899b9ee,0105dbe971f59408ff7f3372ad87fd9e:3ef2b2e5958025ee4c2c0b678d982b09}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQAMVWEU7UcsSv/JHK8brA","k":"drHCQ7VPSJE5cKkisXwsfg"},{"kty":"oct","kid":"AQGFkO6HGNUmw9qW8iIW/A","k":"sM3ayIEFjZzF4FfbrH7YJg"},{"kty":"oct","kid":"AQIlmxEJE13ElhlIVzgM+A","k":"DuyZ3rWdxpkcbHzqTEGmSg"}],"type":"temporary"}
 https://api.zappr.stream/frisbee.mpd
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-chno="44" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/cartoonito.png" group-title="Mediaset",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
