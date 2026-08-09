@@ -85,9 +85,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="K2.it" tvg-chno="40" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/kappa_due.png" group-title="Discovery",K2
-#KODIPROP:inputstream.adaptive.license_type=zappr.stream/clearkey
-#KODIPROP:inputstream.adaptive.license_key={0100ba5d29a372845ef226049f684ec5:cb0e3ac2559b4537cffcd130644e5217,,01010dbb15af95a17086d1c21d5158df:3a167d7de6361eefe75d6d4eca03aa2a,,0102ec0417e0159d451394828b608b28:eed709c12d9202009dc6d105c957a080}
-https://api.zappr.stream/k2.mpd
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/K2/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-chno="41" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/raigulp.png" group-title="Rai",Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
@@ -95,9 +93,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forc
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-chno="43" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/frisbeetv.png" group-title="Discovery",Frisbee
-#KODIPROP:inputstream.adaptive.license_type=zappr.stream/clearkey
-#KODIPROP:inputstream.adaptive.license_key={01000c556114ed472c4affc91caf1bac:76b1c243b54f48913970a922b17c2c7e,,01018590ee8718d526c3da96f22216fc:b0cddac881058d9cc5e057dbac7ed826,,0102259b1109135dc496194857380cf8:0eec99deb59dc6991c6c7cea4c41a64a}
-https://api.zappr.stream/frisbee.mpd
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FRISBEE/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-chno="44" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/cartoonito.png" group-title="Mediaset",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
