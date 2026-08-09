@@ -96,8 +96,8 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forc
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-chno="43" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/frisbeetv.png" group-title="Discovery",Frisbee
 #KODIPROP:inputstream.adaptive.license_type=https://zappr.stream/clearkey
-#KODIPROP:inputstream.adaptive.license_key={01000c556114ed472c4affc91caf1bac:76b1c243b54f48913970a922b17c2c7e,,01018590ee8718d526c3da96f22216fc:b0cddac881058d9cc5e057dbac7ed826,,0102259b1109135dc496194857380cf8:0eec99deb59dc6991c6c7cea4c41a64a,,0103892a0781b22a72b9c5021cee7788:00000000000000000000000000000000,,0104dcca92742fd2bcbdb6d0b9afa199:00000000000000000000000000000000,,0105514f047e00d36707f85733467540:00000000000000000000000000000000}
-https://api.zappr.stream/frisbee.mpd?clearkeyPlayer.maxQuality=720
+#KODIPROP:inputstream.adaptive.license_key={01000c556114ed472c4affc91caf1bac:76b1c243b54f48913970a922b17c2c7e,,01018590ee8718d526c3da96f22216fc:b0cddac881058d9cc5e057dbac7ed826,,0102259b1109135dc496194857380cf8:0eec99deb59dc6991c6c7cea4c41a64a}
+https://api.zappr.stream/frisbee.mpd
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-chno="44" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/cartoonito.png" group-title="Mediaset",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
