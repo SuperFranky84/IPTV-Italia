@@ -91,8 +91,7 @@ https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(k2)/manifest.mpd
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-chno="41" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/raigulp.png" group-title="Rai",Rai Gulp
 https://raigulp1-dash-live.akamaized.net/dash/live/663985/raigulp1/manifest.mpd
 #EXTINF:-1 tvg-id="RaiYoyo.it" tvg-chno="42" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/raiyoyo.png" group-title="Rai",Rai Yoyo
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
+https://raiyoyo1-dash-live.akamaized.net/dash/live/663949/raiyoyo1/manifest.mpd
 #EXTINF:-1 video-track="10" tvg-name="Frisbee" tvg-id="Frisbee.it" tvg-chno="43" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/frisbeetv.png" group-title="Discovery",Frisbee
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5ce25d00a88442eb00991749d3191fc:aa1f60638ab3bb4fde86188666f350c0
